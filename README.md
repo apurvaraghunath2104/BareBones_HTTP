@@ -1,2 +1,2 @@
 # BareBones_HTTP
-A Barebones HTTP Client-Master
+A Barebones HTTP Client
